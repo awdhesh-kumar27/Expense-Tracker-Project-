@@ -1,0 +1,25 @@
+.ExpenseForm-control{
+    padding:5px;
+    margin:5px;
+}
+
+.ExpenseForm-elements{
+  color:red;    
+}
+
+.elementcss div{
+  padding:10px;
+}
+.elementcss{
+  padding-left: 40px;
+}
+.submit-button button{
+  background-color: rgb(211, 211, 226);
+  color:black;
+  padding:5px;
+  border:2px solid black;
+  box-shadow: 2px 2px gray;
+}
+.submit-button{
+  padding-left: 45%;
+}

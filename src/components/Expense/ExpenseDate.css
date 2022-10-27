@@ -1,0 +1,9 @@
+
+.expense-date{
+    border:2px solid darkred;
+    padding: 3px;
+    background-color:rgb(246, 255, 71);
+    color:black;
+    border-radius:5px;
+    box-shadow:2px 2px 2px 3px orangered;
+}
